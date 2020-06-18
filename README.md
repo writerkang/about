@@ -7,7 +7,7 @@
 
 [개발자 커뮤니티 Sysout (소스코드)](https://github.com/writerkang/Maxim_Project): Apache Tomcat v9.0, Oracle 11g 환경
 
-[개발자 커뮤니티 Sysout (발표영상)](https://www.youtube.com/watch?v=c5x5BAcvOAE): 0분-2분, 16분40초-끝까지 발표
+[개발자 커뮤니티 Sysout (발표영상)](https://www.youtube.com/watch?v=c5x5BAcvOAE): '시작-2분', '16분40초-끝' 발표
 
 ### 개요
 * 개발자들을 위한 커뮤니티이며 회원제로 운영됩니다.<br>
