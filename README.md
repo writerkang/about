@@ -29,7 +29,7 @@
 ### 개인 프로젝트
 
 
-[영감을 주는 사이트 Type Idea (웹사이트)](http://sysout.online:8109/Maxim_Project): Amazon AWS 사용하여 호스팅(Ubuntu 20.04 LTS)
+[영감을 주는 사이트 Type Idea (웹사이트)](http://sysout.online/TypeIdea): Amazon AWS 사용하여 호스팅(Ubuntu 20.04 LTS)
 
 [영감을 주는 사이트 Type Idea (소스코드)](https://github.com/writerkang/JavaWork/tree/master/Lec_WEB/WebContent/myweb)
 
