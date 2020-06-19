@@ -3,7 +3,7 @@
 ### 팀 프로젝트
 
 
-[개발자 커뮤니티 Sysout (웹사이트)](http://sysout.online:8109/Maxim_Project): Amazon AWS 사용하여 호스팅(Ubuntu 20.04 LTS)
+[개발자 커뮤니티 Sysout (웹사이트)](http://sysout.online:8109/Maxim_Project): Amazon AWS 사용하여 호스팅(Ubuntu 20.04 LTS)<br>
 방문자 체험계정 : email='guest1@sysout.online' password='guest' , email='guest2@sysout.online' password='guest' 
 
 [개발자 커뮤니티 Sysout (소스코드)](https://github.com/writerkang/Maxim_Project): Apache Tomcat v9.0, Oracle 11g 환경
